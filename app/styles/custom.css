@@ -1,0 +1,45 @@
+.container {
+	margin-top: 20px;
+}
+
+.panel-default>.panel-heading {
+    color:white;
+    background-color: #3B3D40;
+    border-color: #ddd;
+    font-weight: 700;
+}
+
+.top {
+	background:#77797F;
+	color:white;
+	margin-bottom: 10px;
+} 
+
+.serial {
+	background:#EDF3FF;
+}
+
+.recent {
+	background:#EDF3FF;
+
+}
+
+.username img{
+   height: 50px;
+   width: 50px;
+   display: inline-block;
+}
+
+.username label {
+	margin-left:10px;
+}
+
+.user {
+    margin-bottom: 10px;
+	background:#EDF3FF;
+}
+
+a , a:hover, a:focus{
+	color:white;
+	text-decoration: none;
+}
